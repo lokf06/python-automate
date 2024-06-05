@@ -1,2 +1,1 @@
-# python-automate
-My python automate code
+# automated web data scraping and data analytics by python code
