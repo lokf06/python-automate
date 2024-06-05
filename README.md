@@ -1,2 +1,2 @@
 # python-automate
-My python automate codes
+My python automate code
