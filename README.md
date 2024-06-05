@@ -1,1 +1,1 @@
-# automated web data scraping and data analytics by python code
+# web data scraping and data analytics by python code
